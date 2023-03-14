@@ -66,8 +66,9 @@ export const MachineTranslationFeature = () => {
           <TextColumnTitle>Select your service.</TextColumnTitle>
           <TextColumnText>
             We support <GradientText>DeepL</GradientText>,{' '}
-            <GradientText>Google Translate</GradientText>, and{' '}
-            <GradientText>AWS Translate</GradientText>. Select which services
+            <GradientText>Google Translate</GradientText>,{' '}
+            <GradientText>AWS Translate</GradientText>, and{' '}
+            <GradientText>Azure Translator</GradientText>. Select which services
             you want to use in the settings section.
           </TextColumnText>
           <TextColumnTitle>Machines work for you.</TextColumnTitle>
