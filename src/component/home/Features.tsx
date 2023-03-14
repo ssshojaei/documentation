@@ -41,7 +41,7 @@ export const features = [
   },
   {
     title: 'Machine translations',
-    text: 'Let the machines work for you. We support DeepL, Google Translate, and AWS translate.',
+    text: 'Let the machines work for you. We support DeepL, Google Translate, AWS translate, and Azure Translator.',
     image: <MachineTranslationsImg />,
     section: 'translation-assistance',
     id: MACHINE_TRANSLATION,
